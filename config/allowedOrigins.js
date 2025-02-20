@@ -1,5 +1,5 @@
 const allowedOrigin = [
-    'https://technotes-frontend-alpha.vercel.app',
+    'https://techmates-frontend.vercel.app',
 ];
 
 module.exports = allowedOrigin;
